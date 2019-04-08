@@ -31,3 +31,9 @@
     transform: rotate(360deg);
   }
 }
+
+
+@font-face {
+  font-family: 'stranger-font'; /*a name to be used later*/
+  src: url('./fonts/stranger-font.ttf');
+}
